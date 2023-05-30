@@ -1,0 +1,7 @@
+{
+  "name": "NotificationController",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
